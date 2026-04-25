@@ -1,6 +1,5 @@
 # GraphLens (MappingMoney)
 
-[![Course](https://img.shields.io/badge/CS6242-Data%20%26%20Visual%20Analytics-0f766e?logo=googleclassroom&logoColor=white)](https://www.cc.gatech.edu/)
 [![Frontend](https://img.shields.io/badge/Svelte-Frontend-ff3e00?logo=svelte&logoColor=white)](https://svelte.dev/)
 [![Backend](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-222222?logo=githubpages&logoColor=white)](https://aaryesh-ad.github.io/graphlens/)
