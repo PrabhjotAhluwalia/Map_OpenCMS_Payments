@@ -6,7 +6,7 @@
 [![Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-222222?logo=githubpages&logoColor=white)](https://aaryesh-ad.github.io/graphlens/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-GraphLens is a CS6242 (Data and Visual Analytics, Georgia Tech, Spring 2026) course project focused on exploring financial relationships in the CMS Open Payments ecosystem using graph analytics and interactive visualizations.
+GraphLens is a project focused on exploring financial relationships in the CMS Open Payments ecosystem using graph analytics and interactive visualizations.
 
 ## At A Glance
 
@@ -15,20 +15,6 @@ GraphLens is a CS6242 (Data and Visual Analytics, Georgia Tech, Spring 2026) cou
 - Centrality, community, anomaly, and concentration analysis
 - 3D network exploration and dashboard storytelling
 
-## Course Project Info
-
-- Course: CS6242 - Data and Visual Analytics
-- Term: Spring 2026
-- Institution: Georgia Institute of Technology
-- Team: 11
-
-### Team
-
-- Aaryesh Deshpande
-- Birendra Kumar Saye
-- Gabriel Appiah
-- Prabhjot Singh Ahluwalia
-- Sanjana Suresh
 
 ## Project Overview
 
@@ -97,7 +83,6 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 ## Acknowledgements
 
 - CMS Open Payments Program for providing the data and ecosystem to explore financial relationships in healthcare.
-- The Georgia Tech CS6242 course and instructor (Dr. Max Roozbahani), TAs for guiding the project and providing resources on data analytics and visualization techniques.
 - Open-source libraries and tools that made the development of GraphLens possible, including Svelte, D3, FastAPI, igraph, and many others.
 
 ---
